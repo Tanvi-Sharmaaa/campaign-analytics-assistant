@@ -6,6 +6,24 @@ Built using Streamlit, LangChain, OpenAI GPT, PostgreSQL, and SQLAlchemy.
 
 ---
 
+# 📸 Screenshots
+
+## 📊 Dashboard Overview
+
+Shows campaign KPIs, best-performing campaigns, campaigns needing attention, and AI-generated business insights.
+
+<img src="./assistant_ss/dashboard.png" width="700" height="500"/>
+
+---
+
+## 💬 Natural Language SQL Assistant
+
+Ask questions in plain English and get generated SQL queries, insights, and campaign analysis instantly.
+
+<img src="./assistant_ss/sql_assistant.png" width="700" height="500"/>
+
+---
+
 # ✨ Features
 
 - 💬 Natural Language to SQL conversion
